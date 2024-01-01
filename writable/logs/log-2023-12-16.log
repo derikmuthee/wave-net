@@ -1,0 +1,6 @@
+CRITICAL - 2023-12-16 13:51:49 --> Maximum execution time of 120 seconds exceeded
+in SYSTEMPATH\Autoloader\FileLocator.php on line 181.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-12-16 15:44:45 --> Maximum execution time of 120 seconds exceeded
+in VENDORPATH\kint-php\kint\src\Renderer\Rich\AbstractPlugin.php on line 37.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
